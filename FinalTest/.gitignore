@@ -1,6 +1,7 @@
+.csproj
 bin
 obj
-*.csproj
+
 
 
 
