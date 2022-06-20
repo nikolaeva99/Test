@@ -26,7 +26,6 @@ string[] SolveTask (string[] randomArray)
     return result;
 }
 
-
 ShowArray(randomArray);
 string[] newArray = SolveTask(randomArray);
 ShowArray(SolveTask(randomArray));
