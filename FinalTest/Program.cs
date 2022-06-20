@@ -20,7 +20,6 @@ string[] SolveTask (string[] randomArray)
         if (randomArray[i].Length <= 3)
         {
             result[i] = randomArray[i];
-            size++;
         }
 
     }
